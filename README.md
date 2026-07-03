@@ -11,3 +11,9 @@ Estoy empezando a aprender GitHub. Este es mi primer repo de prueba.
 
 He conseguido hacer mi primer commit desde la web 🎉
 Hoy aprendí que cada commit es como guardar el progreso del proyecto. Interesante herramienta.
+
+
+### Objetivos de aprendizaje:
+- Mejorar en Markdown
+- Probar subir archivos
+- Entender mejor cómo funciona GitHub
