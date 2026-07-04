@@ -43,3 +43,11 @@ Poco a poco voy ganando confianza con estas herramientas.
 * Crear un archivo nuevo (por ejemplo un .txt o .md extra)
 * Experimentar con enlaces internos y externos
 * Ver cómo se ve el historial de commits desde la web
+
+### Tareas pendientes para practicar:
+
+- [ ] Subir una imagen al repositorio
+- [ ] Crear un segundo archivo Markdown
+- [ ] Probar hacer un commit desde GitHub Desktop (más adelante)
+- [ ] Entender mejor las ramas (branches)
+- [x] Llegar a más de 15 commits en este repo
