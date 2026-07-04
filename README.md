@@ -51,3 +51,8 @@ Poco a poco voy ganando confianza con estas herramientas.
 - [ ] Probar hacer un commit desde GitHub Desktop (más adelante)
 - [ ] Entender mejor las ramas (branches)
 - [x] Llegar a más de 15 commits en este repo
+
+### Cómo voy:
+
+Llevo ya varios días practicando commits seguidos. Me está gustando ver cómo crece el historial y cómo se va organizando el README.  
+Siento que cada vez lo hago más fluido.
