@@ -63,3 +63,8 @@ Siento que cada vez lo hago más fluido.
 * Crear listas numeradas y con viñetas
 * Hacer checklists como la de arriba
 * Incluir emojis 🎉 que hacen el README más vivo
+
+* ### Nota del 4 de julio 2026:
+
+Siguiendo con la práctica diaria. Me motiva ver que el repositorio va creciendo poco a poco.  
+Aunque sea un repo de prueba, siento que estoy aprendiendo de verdad cómo funciona GitHub.
