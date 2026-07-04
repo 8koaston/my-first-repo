@@ -34,3 +34,12 @@ Mañana quiero probar a subir una imagen o un archivo extra.
 * Hacer varios commits seguidos
 * Escribir en Markdown
 * Mejorar la estructura del README poco a poco
+
+### Habilidades que estoy practicando:
+
+* Uso básico de Markdown (encabezados, listas, negritas)
+* Entender el concepto de commits y control de versiones
+* Edición directa desde la interfaz web de GitHub
+* Mantener un README claro y actualizado
+
+Poco a poco voy ganando confianza con estas herramientas.
