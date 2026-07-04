@@ -56,3 +56,10 @@ Poco a poco voy ganando confianza con estas herramientas.
 
 Llevo ya varios días practicando commits seguidos. Me está gustando ver cómo crece el historial y cómo se va organizando el README.  
 Siento que cada vez lo hago más fluido.
+
+### Cosas interesantes de Markdown que estoy descubriendo:
+
+* Puedo poner **negritas**, *cursivas* y ~~tachado~~
+* Crear listas numeradas y con viñetas
+* Hacer checklists como la de arriba
+* Incluir emojis 🎉 que hacen el README más vivo
