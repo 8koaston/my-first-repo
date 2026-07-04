@@ -36,3 +36,10 @@ Mañana quiero probar a subir una imagen o un archivo extra.
 * Mantener un README claro y actualizado
 
 Poco a poco voy ganando confianza con estas herramientas.
+
+### Ideas para los próximos días:
+
+* Probar subir una imagen al repositorio
+* Crear un archivo nuevo (por ejemplo un .txt o .md extra)
+* Experimentar con enlaces internos y externos
+* Ver cómo se ve el historial de commits desde la web
