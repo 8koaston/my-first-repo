@@ -27,3 +27,10 @@ Hoy aprendí que cada commit es como guardar el progreso del proyecto. Poco a po
 - Hacer varios commits seguidos
 - Escribir en Markdown
 Mañana quiero probar a subir una imagen o un archivo extra.
+
+### Cosas que ya logré:
+
+* Crear mi primer repositorio
+* Hacer varios commits seguidos
+* Escribir en Markdown
+* Mejorar la estructura del README poco a poco
