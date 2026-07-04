@@ -74,3 +74,9 @@ Aunque sea un repo de prueba, siento que estoy aprendiendo de verdad cómo funci
 El Markdown permite poner emojis fácilmente 🎉🚀  
 También se pueden hacer tablas, enlaces y mucho más.  
 Cada día descubro algo nuevo mientras edito este README.
+
+### Resumen personal:
+
+20 commits ya.  
+Estoy contento con cómo va quedando el proyecto de aprendizaje.  
+Poco a poco se nota más organizado y completo.
