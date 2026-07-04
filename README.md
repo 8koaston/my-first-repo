@@ -68,3 +68,9 @@ Siento que cada vez lo hago más fluido.
 
 Siguiendo con la práctica diaria. Me motiva ver que el repositorio va creciendo poco a poco.  
 Aunque sea un repo de prueba, siento que estoy aprendiendo de verdad cómo funciona GitHub.
+
+### Toques divertidos:
+
+El Markdown permite poner emojis fácilmente 🎉🚀  
+También se pueden hacer tablas, enlaces y mucho más.  
+Cada día descubro algo nuevo mientras edito este README.
