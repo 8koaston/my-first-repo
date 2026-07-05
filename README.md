@@ -99,4 +99,8 @@ Hoy vamos a seguir practicando con más commits. Me gusta ver cómo el README se
 - - [ ] Crear un archivo nuevo (por ejemplo un .txt)
 - [ ] Probar hacer un commit con un mensaje más descriptivo
 
+- [ ] ### Reflexión del día:
+
+Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba miedo tocar el repositorio, ahora me divierte ver cómo va creciendo.
+
 
