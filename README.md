@@ -90,4 +90,10 @@ Poco a poco se nota más organizado y completo.
 
 Hoy vamos a seguir practicando con más commits. Me gusta ver cómo el README se va haciendo más completo y organizado. Cada pequeño cambio me ayuda a entender mejor Git y GitHub.
 
+### Progreso esta semana:
+
+- He aprendido a hacer commits más descriptivos
+- Estoy mejorando la estructura del README
+- Me siento más cómodo editando desde la web de GitHub
+
 
