@@ -96,4 +96,7 @@ Hoy vamos a seguir practicando con más commits. Me gusta ver cómo el README se
 - Estoy mejorando la estructura del README
 - Me siento más cómodo editando desde la web de GitHub
 
+- - [ ] Crear un archivo nuevo (por ejemplo un .txt)
+- [ ] Probar hacer un commit con un mensaje más descriptivo
+
 
