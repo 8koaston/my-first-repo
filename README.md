@@ -85,3 +85,9 @@ Poco a poco se nota más organizado y completo.
 20 commits ya.  
 Estoy contento con cómo va quedando el proyecto de aprendizaje.  
 Poco a poco se nota más organizado y completo.
+
+### Nota del 5 de julio 2026:
+
+Hoy vamos a seguir practicando con más commits. Me gusta ver cómo el README se va haciendo más completo y organizado. Cada pequeño cambio me ayuda a entender mejor Git y GitHub.
+
+
