@@ -103,4 +103,8 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 Estoy contento con cómo va quedando el proyecto de aprendizaje.  
 Poco a poco se nota más organizado y completo. ¡Seguimos sumando!
 
+### Reflexión del día (5 de julio):
+
+Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba un poco de miedo tocar el repositorio, ahora me divierte ver cómo va creciendo y mejorando.
+
 
