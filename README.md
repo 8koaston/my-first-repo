@@ -97,4 +97,10 @@ Hoy vamos a seguir practicando con más commits. Me gusta ver cómo el README se
 
 Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba miedo tocar el repositorio, ahora me divierte ver cómo va creciendo.
 
+### Resumen personal:
+
+**24 commits ya.**  
+Estoy contento con cómo va quedando el proyecto de aprendizaje.  
+Poco a poco se nota más organizado y completo. ¡Seguimos sumando!
+
 
