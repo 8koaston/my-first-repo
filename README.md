@@ -107,4 +107,7 @@ Poco a poco se nota más organizado y completo. ¡Seguimos sumando!
 
 Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba un poco de miedo tocar el repositorio, ahora me divierte ver cómo va creciendo y mejorando.
 
+- [ ] Crear un archivo nuevo (por ejemplo un .txt)
+- [ ] Probar hacer un commit con un mensaje más descriptivo
+
 
