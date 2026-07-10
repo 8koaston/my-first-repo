@@ -169,3 +169,17 @@ flowchart TD
     B --> C[Ver Historial]
     C --> D[Mejorar README]
     D --> A
+
+### Recursos útiles de Base (para seguir buildeando)
+
+- [Base Guild](https://guild.xyz/base) → Para conseguir roles
+- [Base Docs](https://docs.base.org) → Documentación oficial
+- [Base Builder](https://base.org/build) → Para proyectos reales
+- [Base GitHub](https://github.com/base-org) → Repos oficiales
+
+### Próximo nivel (mis objetivos)
+
+- [ ] Subir una imagen real al repo
+- [ ] Crear un segundo archivo (por ejemplo `CONTRIBUTING.md`)
+- [ ] Probar crear una rama y hacer un Pull Request
+- [ ] Desplegar algo pequeño en Base (cuando aprenda contratos)
