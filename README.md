@@ -141,5 +141,11 @@ Cada commit cuenta. Seguimos 💪
 - [x] Llegar a más de 15 commits en este repo
 - [ ] Llegar a 30 commits
 
+### Mi progreso en GitHub (actualizado)
 
+| Fecha       | Commits aproximados | Qué aprendí                          |
+|-------------|---------------------|--------------------------------------|
+| 4 de julio  | +10                 | Estructura, secciones y Markdown     |
+| 5 de julio  | +8                  | Commits organizados y reflexiones    |
+| 10 de julio | + varios            | Limpieza, tablas y tareas pendientes |
 
