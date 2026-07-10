@@ -76,7 +76,9 @@ Cada día descubro algo nuevo mientras edito este README.
 
 ### Resumen personal:
 
-20 commits ya.  
+**30 commits ya.** ¡Objetivo alcanzado!)
+
+ 
 Estoy contento con cómo va quedando el proyecto de aprendizaje.  
 Poco a poco se nota más organizado y completo.
 
