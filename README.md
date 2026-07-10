@@ -151,3 +151,13 @@ Cada commit cuenta. Seguimos 💪
 | 5 de julio  | +8                  | Commits organizados y reflexiones    |
 | 10 de julio | + varios            | Limpieza, tablas y tareas pendientes |
 
+
+### Sección diferenciadora: ¡Ya sé más cosas!
+
+```python
+# Ejemplo de código que ahora entiendo mejor
+print("¡Hola, GitHub! 👋")
+print("Este es mi commit número 32")
+for i in range(3):
+    print("Commit practice is fun! 🚀")
+
