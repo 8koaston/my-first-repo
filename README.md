@@ -183,3 +183,12 @@ flowchart TD
 - [ ] Crear un segundo archivo (por ejemplo `CONTRIBUTING.md`)
 - [ ] Probar crear una rama y hacer un Pull Request
 - [ ] Desplegar algo pequeño en Base (cuando aprenda contratos)
+
+### Sección visual 🎨
+
+![Mi primera imagen en el repo](./imagen-practica.png)
+
+*Esta es mi primera imagen subida a GitHub. Cada vez se siente más real el proyecto.*
+
+### Aprendizaje del día:
+Subir archivos + imágenes es clave para proyectos reales. ¡Ya no solo texto!
