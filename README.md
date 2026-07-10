@@ -120,4 +120,11 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 - Entiendo mejor la diferencia entre editar y commitear
 - Ya no me olvido de poner mensajes claros en los commits
 
+- markdown
+
+* Probar a crear una rama (branch)
+* Subir una imagen al repositorio
+
+
+
 
