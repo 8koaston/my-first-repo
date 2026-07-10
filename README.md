@@ -130,5 +130,16 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 Este repo de prueba me está ayudando muchísimo a aprender Git y GitHub de forma práctica.  
 Cada commit cuenta. Seguimos 💪
 
+### Tareas pendientes para practicar:
+
+- [ ] Subir una imagen al repositorio
+- [ ] Crear un segundo archivo Markdown
+- [ ] Probar hacer un commit desde GitHub Desktop
+- [ ] Entender mejor las ramas (branches)
+- [ ] Crear una rama nueva y hacer un merge
+- [ ] Probar enlaces internos y externos en Markdown
+- [x] Llegar a más de 15 commits en este repo
+- [ ] Llegar a 30 commits
+
 
 
