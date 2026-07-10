@@ -132,6 +132,9 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 | 4 de julio     | +10     | Estructura y secciones          |
 | 5 de julio     | +8      | Hacer commits más organizados   |
 
+**¡Vamos por más!**  
+Este repo de prueba me está ayudando muchísimo a aprender Git y GitHub de forma práctica.  
+Cada commit cuenta. Seguimos 💪
 
 
 
