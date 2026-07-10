@@ -192,3 +192,17 @@ flowchart TD
 
 ### Aprendizaje del día:
 Subir archivos + imágenes es clave para proyectos reales. ¡Ya no solo texto!
+
+### Ejemplo de código más avanzado
+
+```solidity
+// Ejemplo básico de contrato (futuro en Base)
+pragma solidity ^0.8.0;
+
+contract HolaBase {
+    string public saludo = "¡Hola desde mi repo de práctica para Base Guild!";
+    
+    function cambiarSaludo(string memory nuevoSaludo) public {
+        saludo = nuevoSaludo;
+    }
+}
