@@ -161,3 +161,11 @@ print("Este es mi commit número 32")
 for i in range(3):
     print("Commit practice is fun! 🚀")
 
+### Diagrama del flujo de Git (¡nivel intermedio!)
+
+```mermaid
+flowchart TD
+    A[Editar README] --> B[Hacer Commit]
+    B --> C[Ver Historial]
+    C --> D[Mejorar README]
+    D --> A
