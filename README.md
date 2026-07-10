@@ -114,4 +114,10 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 
 Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba miedo tocar el repositorio, ahora me divierte ver cómo va creciendo.
 
+### Errores que ya no cometo:
+
+- Ya no tengo miedo de hacer commits
+- Entiendo mejor la diferencia entre editar y commitear
+- Ya no me olvido de poner mensajes claros en los commits
+
 
