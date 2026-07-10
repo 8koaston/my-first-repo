@@ -110,4 +110,8 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 - [ ] Crear un archivo nuevo (por ejemplo un .txt)
 - [ ] Probar hacer un commit con un mensaje más descriptivo
 
+- [ ] ### Reflexión del día:
+
+Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba miedo tocar el repositorio, ahora me divierte ver cómo va creciendo.
+
 
