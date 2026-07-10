@@ -107,30 +107,24 @@ Poco a poco se nota más organizado y completo. ¡Seguimos sumando!
 
 Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba un poco de miedo tocar el repositorio, ahora me divierte ver cómo va creciendo y mejorando.
 
-- [ ] Crear un archivo nuevo (por ejemplo un .txt)
-- [ ] Probar hacer un commit con un mensaje más descriptivo
-
-- [ ] ### Reflexión del día:
-
-Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de verdad. Antes me daba miedo tocar el repositorio, ahora me divierte ver cómo va creciendo.
-
 ### Errores que ya no cometo:
 
 - Ya no tengo miedo de hacer commits
 - Entiendo mejor la diferencia entre editar y commitear
 - Ya no me olvido de poner mensajes claros en los commits
 
-- markdown
+### Ideas actualizadas para los próximos días:
 
 * Probar a crear una rama (branch)
 * Subir una imagen al repositorio
+* Crear un archivo nuevo (.txt o .md extra)
 
-* ### Mi progreso en GitHub
+### Mi progreso en GitHub
 
-| Fecha          | Commits | Qué aprendí                     |
-|----------------|---------|---------------------------------|
-| 4 de julio     | +10     | Estructura y secciones          |
-| 5 de julio     | +8      | Hacer commits más organizados   |
+| Fecha          | Commits aproximados | Qué aprendí                     |
+|----------------|---------------------|---------------------------------|
+| 4 de julio     | +10                 | Estructura y secciones          |
+| 5 de julio     | +8                  | Hacer commits más organizados   |
 
 **¡Vamos por más!**  
 Este repo de prueba me está ayudando muchísimo a aprender Git y GitHub de forma práctica.  
