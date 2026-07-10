@@ -125,6 +125,13 @@ Cada commit que hago, aunque sea pequeño, me hace sentir que estoy avanzando de
 * Probar a crear una rama (branch)
 * Subir una imagen al repositorio
 
+* ### Mi progreso en GitHub
+
+| Fecha          | Commits | Qué aprendí                     |
+|----------------|---------|---------------------------------|
+| 4 de julio     | +10     | Estructura y secciones          |
+| 5 de julio     | +8      | Hacer commits más organizados   |
+
 
 
 
