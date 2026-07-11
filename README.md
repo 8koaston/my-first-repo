@@ -248,3 +248,16 @@ Base es una L2 de Ethereum creada por Coinbase. Algunas cosas interesantes que e
 - Hay muchos proyectos creciendo (DeFi, NFTs, social, etc.)
 
 **Idea futura:** Cuando avance más, me gustaría probar desplegar un contrato simple en Base.
+
+### Ejemplo práctico: Interactuando con Base
+
+```javascript
+// Ejemplo simple de cómo conectar una app a Base (futuro proyecto)
+const baseChainId = 8453; // Chain ID de Base
+
+async function conectarWallet() {
+  if (window.ethereum) {
+    await window.ethereum.request({ method: 'eth_requestAccounts' });
+    console.log("¡Conectado a Base!");
+  }
+}
