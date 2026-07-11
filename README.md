@@ -269,3 +269,12 @@ async function conectarWallet() {
 - [Coinbase Wallet](https://www.coinbase.com/wallet) → Para interactuar fácilmente
 
 Cada vez me motiva más ver todo lo que se puede construir en Base.
+
+### Ideas de proyectos futuros en Base
+
+- Un simple contador on-chain
+- Un NFT básico de "Builder Journey"
+- Un formulario que guarde datos en la blockchain
+- Un dashboard que muestre actividad en Base
+
+Poco a poco voy ganando confianza para pasar de práctica a algo real.
