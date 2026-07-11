@@ -289,3 +289,12 @@ Poco a poco voy ganando confianza para pasar de práctica a algo real.
 | Enfoque          | Builders + Mass adoption | RetroPGF       | Gaming + DeFi    |
 
 Fuente: Mi investigación actual. Iré actualizando según aprenda más.
+
+### Por qué Base me interesa como builder
+
+- Es fácil de usar para principiantes que quieren entrar en web3
+- Coinbase lo respalda, lo que da confianza y visibilidad
+- La comunidad de builders es activa y hay mucho soporte
+- Tiene fees muy bajos, ideal para probar ideas sin gastar mucho
+
+Estoy usando este repo precisamente para practicar y prepararme para construir algo real en Base en el futuro.
