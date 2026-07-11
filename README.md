@@ -227,3 +227,14 @@ contract HolaBase {
 5. No pasa nada si cometes errores, se pueden arreglar con nuevos commits
 
 **Conclusión:** Estoy mucho más cómodo con GitHub que hace 38 commits atrás.
+
+### Tabla de progreso (Base Guild 100 commits)
+
+| Commit | Fecha aproximada | Qué añadí                              | Nivel |
+|--------|------------------|----------------------------------------|-------|
+| 1-20   | Julio 4          | Base del README + estructura           | Básico |
+| 21-30  | Julio 5          | Notas diarias y reflexiones            | Medio |
+| 31-39  | Julio 10-11      | Diagramas, código, imágenes y tracking | Avanzado |
+
+**Estado actual:** 39 / 100 commits  
+**Porcentaje completado:** 39%
