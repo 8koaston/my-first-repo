@@ -217,3 +217,13 @@ contract HolaBase {
 > "No se trata de hacer commits perfectos, se trata de hacer commits consistentes."
 
 ¡Sigamos! Ya estamos más de un tercio del camino.
+
+### Lecciones aprendidas hasta el commit 38
+
+1. Los mensajes de commit claros ayudan mucho a entender el historial
+2. Mantener el README actualizado es tan importante como el código
+3. La práctica diaria (aunque sea poco) genera mucha diferencia
+4. GitHub desde la web es suficiente para empezar, después vendrá Git local
+5. No pasa nada si cometes errores, se pueden arreglar con nuevos commits
+
+**Conclusión:** Estoy mucho más cómodo con GitHub que hace 38 commits atrás.
