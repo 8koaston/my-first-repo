@@ -308,3 +308,26 @@ Estoy usando este repo precisamente para practicar y prepararme para construir a
 - [Blockscout Base](https://base.blockscout.com) - Explorador de bloques
 
 Estoy guardando aquí todos los enlaces útiles mientras avanzo.
+
+### Ejemplo básico de contrato para Base
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract BuilderCounter {
+    uint256 public count = 0;
+    address public owner;
+
+    constructor() {
+        owner = msg.sender;
+    }
+
+    function increment() public {
+        count += 1;
+    }
+
+    function getCount() public view returns (uint256) {
+        return count;
+    }
+}
