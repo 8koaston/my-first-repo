@@ -298,3 +298,13 @@ Fuente: Mi investigación actual. Iré actualizando según aprenda más.
 - Tiene fees muy bajos, ideal para probar ideas sin gastar mucho
 
 Estoy usando este repo precisamente para practicar y prepararme para construir algo real en Base en el futuro.
+
+### Recursos de aprendizaje para Base
+
+- [Base Docs](https://docs.base.org) - Documentación oficial
+- [Build on Base](https://base.org/build) - Guía para developers
+- [Base GitHub](https://github.com/base-org) - Repositorios oficiales
+- [Base Bridge](https://bridge.base.org) - Para mover fondos
+- [Blockscout Base](https://base.blockscout.com) - Explorador de bloques
+
+Estoy guardando aquí todos los enlaces útiles mientras avanzo.
