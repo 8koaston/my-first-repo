@@ -238,3 +238,13 @@ contract HolaBase {
 
 **Estado actual:** 39 / 100 commits  
 **Porcentaje completado:** 39%
+
+### Explorando el ecosistema Base
+
+Base es una L2 de Ethereum creada por Coinbase. Algunas cosas interesantes que estoy descubriendo:
+
+- Es muy rápida y barata para transacciones
+- Tiene un enfoque fuerte en builders y developers
+- Hay muchos proyectos creciendo (DeFi, NFTs, social, etc.)
+
+**Idea futura:** Cuando avance más, me gustaría probar desplegar un contrato simple en Base.
