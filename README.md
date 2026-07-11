@@ -390,3 +390,12 @@ contract SimpleStorage {
 - **Coinbase Wallet**: Fácil de usar con Base
 
 Estoy anotando aquí las herramientas que voy descubriendo para no olvidarlas.
+
+### Próximos pasos en mi aprendizaje de Base
+
+- Entender mejor cómo funcionan los bridges
+- Probar interactuar con contratos existentes
+- Crear un proyecto pequeño (por ejemplo un contador on-chain)
+- Explorar cómo funcionan los NFTs en Base
+
+Voy avanzando paso a paso y este README me ayuda a organizar todo.
