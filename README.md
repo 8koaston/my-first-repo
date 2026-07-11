@@ -347,3 +347,13 @@ contract BuilderCounter {
 - Symbol: ETH
 
 Poco a poco voy entendiendo el flujo completo.
+
+### Diagrama del flujo para desplegar en Base
+
+```mermaid
+flowchart TD
+    A[Escribir contrato Solidity] --> B[Probar en Remix o local]
+    B --> C[Conectar wallet a Base]
+    C --> D[Desplegar contrato]
+    D --> E[Verificar en Blockscout]
+    E --> F[Compartir el contrato]
