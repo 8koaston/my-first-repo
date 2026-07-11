@@ -261,3 +261,11 @@ async function conectarWallet() {
     console.log("¡Conectado a Base!");
   }
 }
+### Proyectos interesantes en Base que estoy descubriendo
+
+- [Aerodrome](https://aerodrome.finance) → DEX muy activo
+- [Friend.tech](https://www.friend.tech) → SocialFi
+- [Base Name Service](https://basenames.xyz) → Dominios .base
+- [Coinbase Wallet](https://www.coinbase.com/wallet) → Para interactuar fácilmente
+
+Cada vez me motiva más ver todo lo que se puede construir en Base.
