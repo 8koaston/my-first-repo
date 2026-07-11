@@ -381,3 +381,12 @@ contract SimpleStorage {
         return message;
     }
 }
+### Herramientas útiles para developers en Base
+
+- **Remix IDE**: Ideal para probar contratos rápido
+- **Foundry / Hardhat**: Para desarrollo profesional
+- **Blockscout**: Explorador de bloques de Base
+- **BaseScan**: Otro explorador alternativo
+- **Coinbase Wallet**: Fácil de usar con Base
+
+Estoy anotando aquí las herramientas que voy descubriendo para no olvidarlas.
