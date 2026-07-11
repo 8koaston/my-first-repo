@@ -206,3 +206,14 @@ contract HolaBase {
         saludo = nuevoSaludo;
     }
 }
+
+### Progreso hacia los 100 commits (Base Guild)
+
+- **Actual:** 37 / 100 commits
+- **Objetivo:** Llegar a 100 para desbloquear el rol completo
+- **Motivación:** Cada commit es una pequeña victoria. Poco a poco se construye el hábito de builder.
+
+**Frase del día:**
+> "No se trata de hacer commits perfectos, se trata de hacer commits consistentes."
+
+¡Sigamos! Ya estamos más de un tercio del camino.
