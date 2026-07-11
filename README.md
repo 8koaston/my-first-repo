@@ -363,3 +363,21 @@ flowchart TD
 Cada vez entiendo mejor cómo funciona el ecosistema de Base. Al principio solo sabía que era "una L2 barata", ahora estoy viendo el flujo completo: desde escribir código hasta desplegarlo. 
 
 Este repo me está sirviendo para practicar de forma consistente y organizar todo lo que voy aprendiendo.
+
+### Otro contrato útil para practicar
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract SimpleStorage {
+    string public message = "Bienvenido a Base";
+
+    function setMessage(string memory newMessage) public {
+        message = newMessage;
+    }
+
+    function getMessage() public view returns (string memory) {
+        return message;
+    }
+}
