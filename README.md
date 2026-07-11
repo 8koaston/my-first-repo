@@ -331,3 +331,19 @@ contract BuilderCounter {
         return count;
     }
 }
+
+### Cómo desplegar un contrato en Base (pasos básicos)
+
+1. Escribir el contrato en Solidity (como el ejemplo de arriba)
+2. Usar Remix IDE o Hardhat/Foundry
+3. Conectar la wallet a la red Base (Chain ID: 8453)
+4. Desplegar con low fees
+5. Verificar el contrato en Blockscout
+
+**Ejemplo de red en MetaMask:**
+- Network Name: Base
+- RPC URL: https://mainnet.base.org
+- Chain ID: 8453
+- Symbol: ETH
+
+Poco a poco voy entendiendo el flujo completo.
