@@ -278,3 +278,14 @@ Cada vez me motiva más ver todo lo que se puede construir en Base.
 - Un dashboard que muestre actividad en Base
 
 Poco a poco voy ganando confianza para pasar de práctica a algo real.
+
+### Comparación rápida: Base vs otras L2
+
+| Aspecto          | Base              | Optimism          | Arbitrum         |
+|------------------|-------------------|-------------------|------------------|
+| Velocidad        | Muy rápida        | Rápida            | Muy rápida       |
+| Costo            | Muy bajo          | Bajo              | Bajo             |
+| Soporte Coinbase | Excelente         | Bueno             | Normal           |
+| Enfoque          | Builders + Mass adoption | RetroPGF       | Gaming + DeFi    |
+
+Fuente: Mi investigación actual. Iré actualizando según aprenda más.
