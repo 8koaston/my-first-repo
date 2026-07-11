@@ -357,3 +357,9 @@ flowchart TD
     C --> D[Desplegar contrato]
     D --> E[Verificar en Blockscout]
     E --> F[Compartir el contrato]
+
+### Reflexión después de 51 commits
+
+Cada vez entiendo mejor cómo funciona el ecosistema de Base. Al principio solo sabía que era "una L2 barata", ahora estoy viendo el flujo completo: desde escribir código hasta desplegarlo. 
+
+Este repo me está sirviendo para practicar de forma consistente y organizar todo lo que voy aprendiendo.
