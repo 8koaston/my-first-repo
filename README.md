@@ -417,3 +417,13 @@ Base tiene fees muy bajos comparado con Ethereum mainnet. Esto permite:
 - Hacer DeFi, NFTs y juegos on-chain de forma accesible
 
 Es una de las razones principales por la que muchos builders eligen Base para empezar.
+
+### Consejos de seguridad en Base
+
+- Nunca compartas tu seed phrase
+- Verifica siempre las direcciones antes de enviar fondos
+- Usa wallets separadas para pruebas y fondos reales
+- Revisa contratos antes de interactuar (en Blockscout)
+- Activa 2FA en tus cuentas relacionadas
+
+La seguridad es fundamental cuando se empieza a trabajar on-chain.
