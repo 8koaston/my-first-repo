@@ -459,3 +459,13 @@ async function llamarContrato() {
 - Importancia de la seguridad on-chain
 
 Este README se está convirtiendo en mi cuaderno personal de aprendizaje de Base.
+
+### Arquitectura simplificada de Base
+
+```mermaid
+flowchart TD
+    A[Usuarios / Builders] --> B[Base (L2)]
+    B --> C[Ethereum Mainnet (L1)]
+    B --> D[Optimism Stack]
+    D --> E[OP Stack tools]
+    B --> F[DEXs, NFTs, Apps]
