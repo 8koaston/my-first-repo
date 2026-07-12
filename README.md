@@ -499,3 +499,12 @@ const ABI = [
 - Más herramientas para developers (SDKs, templates, etc.)
 
 Estoy emocionado de seguir aprendiendo y quizás contribuir en algún momento.
+
+### Errores comunes al empezar con Base y cómo evitarlos
+
+- Enviar a la red equivocada → Siempre verifica el Chain ID
+- Gastar demasiado gas en mainnet → Usa Base desde el principio
+- No verificar contratos → Siempre verifica en Blockscout
+- Ignorar seguridad de la wallet → Nunca compartas claves
+
+Aprender de errores (propios o ajenos) acelera el proceso.
