@@ -479,3 +479,14 @@ flowchart TD
 - No tengas miedo de experimentar, los fees son bajos
 
 El camino se hace paso a paso.
+
+### Ejemplo de ABI (para interactuar con contratos)
+
+```javascript
+const ABI = [
+  "function increment() public",
+  "function getCount() public view returns (uint256)",
+  "function setMessage(string memory newMessage) public"
+];
+
+// Luego se usa con ethers.js o viem para llamar las funciones en Base
