@@ -469,3 +469,13 @@ flowchart TD
     B --> D[Optimism Stack]
     D --> E[OP Stack tools]
     B --> F[DEXs, NFTs, Apps]
+
+### Tips para nuevos builders en Base
+
+- Empieza pequeño: prueba contratos simples primero
+- Usa testnets cuando estén disponibles
+- Únete a comunidades para preguntar dudas
+- Documenta tu aprendizaje (como estoy haciendo aquí)
+- No tengas miedo de experimentar, los fees son bajos
+
+El camino se hace paso a paso.
