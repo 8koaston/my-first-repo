@@ -399,3 +399,12 @@ Estoy anotando aquí las herramientas que voy descubriendo para no olvidarlas.
 - Explorar cómo funcionan los NFTs en Base
 
 Voy avanzando paso a paso y este README me ayuda a organizar todo.
+
+### Wallets recomendadas para usar con Base
+
+- **Coinbase Wallet**: La más integrada con Base
+- **MetaMask**: Muy popular y fácil de configurar la red
+- **Rainbow**: Buena para mobile y NFTs
+- **Trust Wallet**: Simple y multiplataforma
+
+Consejo: Siempre usa redes de prueba (si hay) antes de mover fondos reales.
