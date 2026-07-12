@@ -408,3 +408,12 @@ Voy avanzando paso a paso y este README me ayuda a organizar todo.
 - **Trust Wallet**: Simple y multiplataforma
 
 Consejo: Siempre usa redes de prueba (si hay) antes de mover fondos reales.
+
+### Fees en Base y por qué es atractiva
+
+Base tiene fees muy bajos comparado con Ethereum mainnet. Esto permite:
+- Hacer muchas transacciones sin gastar mucho
+- Probar ideas rápidamente
+- Hacer DeFi, NFTs y juegos on-chain de forma accesible
+
+Es una de las razones principales por la que muchos builders eligen Base para empezar.
