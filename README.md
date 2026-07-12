@@ -508,3 +508,12 @@ Estoy emocionado de seguir aprendiendo y quizás contribuir en algún momento.
 - Ignorar seguridad de la wallet → Nunca compartas claves
 
 Aprender de errores (propios o ajenos) acelera el proceso.
+
+### Próximos experimentos que quiero probar
+
+- Desplegar un contrato simple en Base usando Remix
+- Crear un frontend básico que interactúe con él
+- Probar un bridge para mover fondos
+- Explorar cómo funcionan los NFTs en Base
+
+Este repo me sirve de bitácora para ir marcando lo que voy logrando.
