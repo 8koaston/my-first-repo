@@ -490,3 +490,12 @@ const ABI = [
 ];
 
 // Luego se usa con ethers.js o viem para llamar las funciones en Base
+
+### El futuro de Base según lo que estoy viendo
+
+- Más adopción masiva gracias a Coinbase
+- Crecimiento en DeFi y aplicaciones sociales
+- Mejoras constantes en velocidad y costos
+- Más herramientas para developers (SDKs, templates, etc.)
+
+Estoy emocionado de seguir aprendiendo y quizás contribuir en algún momento.
