@@ -427,3 +427,12 @@ Es una de las razones principales por la que muchos builders eligen Base para em
 - Activa 2FA en tus cuentas relacionadas
 
 La seguridad es fundamental cuando se empieza a trabajar on-chain.
+
+### Comunidades de Base para builders
+
+- Discord oficial de Base
+- Base Builders en X / Farcaster
+- Grupos de developers en Telegram
+- Guild.xyz/base (para roles y quests)
+
+Participar en comunidades ayuda mucho a aprender y encontrar oportunidades.
