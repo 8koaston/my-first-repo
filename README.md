@@ -450,3 +450,12 @@ async function llamarContrato() {
   await contract.increment();
   console.log("Transacción enviada a Base");
 }
+### Resumen de conceptos aprendidos hasta ahora
+
+- Cómo funciona una L2 como Base
+- Estructura básica de contratos Solidity
+- Cómo interactuar desde frontend
+- Herramientas y wallets recomendadas
+- Importancia de la seguridad on-chain
+
+Este README se está convirtiendo en mi cuaderno personal de aprendizaje de Base.
