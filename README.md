@@ -436,3 +436,17 @@ La seguridad es fundamental cuando se empieza a trabajar on-chain.
 - Guild.xyz/base (para roles y quests)
 
 Participar en comunidades ayuda mucho a aprender y encontrar oportunidades.
+
+### Ejemplo de interacción con un contrato (JavaScript)
+
+```javascript
+const contractAddress = "0x..."; // dirección del contrato
+
+async function llamarContrato() {
+  const provider = new ethers.providers.Web3Provider(window.ethereum);
+  const signer = provider.getSigner();
+  
+  const contract = new ethers.Contract(contractAddress, ABI, signer);
+  await contract.increment();
+  console.log("Transacción enviada a Base");
+}
