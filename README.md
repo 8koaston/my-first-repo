@@ -561,3 +561,9 @@ Esto es lo que separa una simple página de una verdadera dApp.
   </script>
 </body>
 </html>
+
+### Reflexión en el commit 70
+
+Este repo ha pasado de ser un simple "hola mundo" a un cuaderno organizado con ejemplos de código, diagramas y recursos de Base. 
+
+Cada commit me ayuda a consolidar conocimiento y a mantener el hábito de construir. Poco a poco se nota el avance.
