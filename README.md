@@ -596,3 +596,11 @@ function increment() public {
     count += 1;
     emit CountIncremented(count, msg.sender);
 }
+### Oráculos en Base (para datos off-chain)
+
+Los oráculos permiten que los contratos accedan a datos del mundo real, por ejemplo:
+- Precios de criptomonedas
+- Resultados de eventos
+- Datos del clima
+
+En Base se pueden usar Chainlink u otros oráculos compatibles. Es un tema avanzado pero muy útil.
