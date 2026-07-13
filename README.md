@@ -632,3 +632,22 @@ Ventajas en Base:
 - Integración con wallets como Coinbase Wallet
 
 Es un buen punto de entrada para proyectos creativos.
+
+### Ejemplo básico de contrato ERC-721 (NFT)
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
+
+contract MyBaseNFT is ERC721 {
+    uint256 private _tokenIdCounter;
+
+    constructor() ERC721("MyBaseNFT", "MBN") {}
+
+    function safeMint(address to) public {
+        uint256 tokenId = _tokenIdCounter++;
+        _safeMint(to, tokenId);
+    }
+}
