@@ -530,3 +530,13 @@ async function conectar() {
   alert("Conectado a Base!");
 }
 </script>
+
+### Conectando frontend con contrato en Base
+
+El flujo típico es:
+1. Usuario conecta wallet
+2. Frontend llama al contrato a través de ethers.js o viem
+3. Transacción se confirma en Base
+4. Se actualiza la UI con el resultado
+
+Esto es lo que separa una simple página de una verdadera dApp.
