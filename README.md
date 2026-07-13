@@ -577,3 +577,12 @@ Antes de desplegar es bueno probar:
 - Verificar interacciones con diferentes wallets
 
 El testing evita perder tiempo (y gas) en errores tontos.
+
+### Optimizaciones comunes en contratos para Base
+
+- Usar uint256 en lugar de tipos más pequeños cuando sea posible
+- Minimizar storage writes (son caras)
+- Usar eventos para logging en lugar de storage innecesario
+- Probar gas consumption antes de desplegar
+
+Estas pequeñas optimizaciones hacen gran diferencia en L2s como Base.
