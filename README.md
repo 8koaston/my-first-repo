@@ -540,3 +540,24 @@ El flujo típico es:
 4. Se actualiza la UI con el resultado
 
 Esto es lo que separa una simple página de una verdadera dApp.
+
+### Ejemplo completo de frontend simple
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi primera dApp en Base</title>
+</head>
+<body>
+  <h1>Contador en Base</h1>
+  <button onclick="conectarWallet()">Conectar Wallet</button>
+  <button onclick="incrementar()">+1</button>
+  <p id="count">Count: 0</p>
+
+  <script src="https://cdn.ethers.io/lib/ethers-5.7.umd.min.js"></script>
+  <script>
+    // Código para conectar e interactuar...
+  </script>
+</body>
+</html>
