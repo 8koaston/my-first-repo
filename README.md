@@ -659,3 +659,12 @@ Base tiene un ecosistema DeFi en crecimiento:
 - Yield farming con bajos fees
 
 Es ideal para probar estrategias sin pagar gas caro de Ethereum.
+
+### Ejemplo de interacción con un DEX en Base (pseudocódigo)
+
+1. Conectar wallet a Base
+2. Aprobar el token que quieres vender
+3. Llamar a la función swap en el router del DEX (ej. Aerodrome)
+4. Recibir el token de destino
+
+Esto permite hacer trades
