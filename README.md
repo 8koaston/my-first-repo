@@ -567,3 +567,13 @@ Esto es lo que separa una simple página de una verdadera dApp.
 Este repo ha pasado de ser un simple "hola mundo" a un cuaderno organizado con ejemplos de código, diagramas y recursos de Base. 
 
 Cada commit me ayuda a consolidar conocimiento y a mantener el hábito de construir. Poco a poco se nota el avance.
+
+### Testing en contratos para Base
+
+Antes de desplegar es bueno probar:
+
+- Usar Remix con el entorno JavaScript VM
+- Probar con Hardhat en local
+- Verificar interacciones con diferentes wallets
+
+El testing evita perder tiempo (y gas) en errores tontos.
