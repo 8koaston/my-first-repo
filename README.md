@@ -517,3 +517,16 @@ Aprender de errores (propios o ajenos) acelera el proceso.
 - Explorar cómo funcionan los NFTs en Base
 
 Este repo me sirve de bitácora para ir marcando lo que voy logrando.
+
+### Ejemplo básico de frontend para interactuar con Base
+
+```html
+<button onclick="conectar()">Conectar Wallet</button>
+<button onclick="incrementar()">Incrementar Contador</button>
+
+<script>
+async function conectar() {
+  await window.ethereum.request({ method: 'eth_requestAccounts' });
+  alert("Conectado a Base!");
+}
+</script>
