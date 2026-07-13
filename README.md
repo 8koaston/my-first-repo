@@ -668,3 +668,9 @@ Es ideal para probar estrategias sin pagar gas caro de Ethereum.
 4. Recibir el token de destino
 
 Esto permite hacer trades
+
+### Reflexión en el commit 80
+
+Este repo ha crecido mucho desde el primer "Hola". Ahora tiene ejemplos de Solidity, frontend, diagramas y recursos de Base. 
+
+Me está sirviendo como bitácora real de aprendizaje y práctica.
