@@ -586,3 +586,13 @@ El testing evita perder tiempo (y gas) en errores tontos.
 - Probar gas consumption antes de desplegar
 
 Estas pequeñas optimizaciones hacen gran diferencia en L2s como Base.
+
+### Ejemplo de eventos en Solidity (útil para frontend)
+
+```solidity
+event CountIncremented(uint256 newCount, address user);
+
+function increment() public {
+    count += 1;
+    emit CountIncremented(count, msg.sender);
+}
