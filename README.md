@@ -622,3 +622,13 @@ contract PriceConsumer {
         return price;
     }
 }
+### NFTs en Base
+
+Base es muy buena para NFTs porque tiene fees bajos. Un contrato ERC-721 básico permite crear colecciones fácilmente.
+
+Ventajas en Base:
+- Mint barato
+- Transacciones rápidas
+- Integración con wallets como Coinbase Wallet
+
+Es un buen punto de entrada para proyectos creativos.
