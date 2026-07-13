@@ -651,3 +651,11 @@ contract MyBaseNFT is ERC721 {
         _safeMint(to, tokenId);
     }
 }
+### DeFi en Base
+
+Base tiene un ecosistema DeFi en crecimiento:
+- Aerodrome como DEX principal
+- Lending protocols
+- Yield farming con bajos fees
+
+Es ideal para probar estrategias sin pagar gas caro de Ethereum.
