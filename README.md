@@ -604,3 +604,21 @@ Los oráculos permiten que los contratos accedan a datos del mundo real, por eje
 - Datos del clima
 
 En Base se pueden usar Chainlink u otros oráculos compatibles. Es un tema avanzado pero muy útil.
+
+### Ejemplo básico de uso de Chainlink (precio feed)
+
+```solidity
+import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
+
+contract PriceConsumer {
+    AggregatorV3Interface internal priceFeed;
+
+    constructor() {
+        priceFeed = AggregatorV3Interface(0x...); // Address del feed en Base
+    }
+
+    function getLatestPrice() public view returns (int) {
+        (,int price,,,) = priceFeed.latestRoundData();
+        return price;
+    }
+}
