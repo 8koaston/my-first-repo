@@ -674,3 +674,8 @@ Esto permite hacer trades
 Este repo ha crecido mucho desde el primer "Hola". Ahora tiene ejemplos de Solidity, frontend, diagramas y recursos de Base. 
 
 Me está sirviendo como bitácora real de aprendizaje y práctica.
+### Bridges en Base
+
+Para mover fondos desde Ethereum u otras chains a Base se usan bridges oficiales o de terceros.
+
+Consejo: Siempre verifica el bridge oficial y usa cantidades pequeñas la primera vez para probar.
