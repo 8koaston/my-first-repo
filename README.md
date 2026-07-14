@@ -722,3 +722,12 @@ Ventajas:
 - Fácil de entrar/salir
 
 Siempre investigar los riesgos (impermanent loss, smart contract risk, etc.).
+
+### Riesgos importantes en DeFi y yield farming
+
+- Smart contract risk (bugs en el código)
+- Impermanent loss en liquidity pools
+- Liquidation risk en lending
+- Rug pulls o exploits
+
+Siempre hacer DYOR (Do Your Own Research) y empezar con cantidades pequeñas.
