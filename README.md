@@ -712,3 +712,13 @@ contract MiContrato {
         usdc.transferFrom(msg.sender, address(this), amount);
     }
 }
+### Yield farming en Base
+
+Muchos protocolos en Base permiten depositar liquidez o stablecoins para generar yield.
+
+Ventajas:
+- Fees bajos = más rentabilidad neta
+- Oportunidades frecuentes
+- Fácil de entrar/salir
+
+Siempre investigar los riesgos (impermanent loss, smart contract risk, etc.).
