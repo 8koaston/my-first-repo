@@ -695,3 +695,20 @@ Base tiene buena liquidez de stablecoins (USDC, USDT, etc.). Son ideales para:
 - Entrada/salida del ecosistema
 
 USDC nativo en Base es especialmente útil.
+
+### Ejemplo de interacción con USDC en un contrato
+
+```solidity
+import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+
+contract MiContrato {
+    IERC20 public usdc;
+
+    constructor(address _usdcAddress) {
+        usdc = IERC20(_usdcAddress);
+    }
+
+    function depositarUSDC(uint256 amount) public {
+        usdc.transferFrom(msg.sender, address(this), amount);
+    }
+}
