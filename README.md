@@ -740,3 +740,12 @@ Siempre hacer DYOR (Do Your Own Research) y empezar con cantidades pequeñas.
 - Crear contenido educativo sobre el ecosistema
 
 Hay mucho espacio para builders nuevos.
+
+### Hackathons y eventos en Base
+
+Base y Coinbase organizan hackathons y programas para builders con premios y mentorship.
+
+Es una gran forma de:
+- Aprender aceleradamente
+- Conocer otros developers
+- Posiblemente ganar incentivos
