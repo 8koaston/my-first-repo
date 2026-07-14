@@ -679,3 +679,10 @@ Me está sirviendo como bitácora real de aprendizaje y práctica.
 Para mover fondos desde Ethereum u otras chains a Base se usan bridges oficiales o de terceros.
 
 Consejo: Siempre verifica el bridge oficial y usa cantidades pequeñas la primera vez para probar.
+### Bridges recomendados para Base
+
+- Official Base Bridge (de Ethereum)
+- Otros bridges de terceros (verificar seguridad)
+- Superbridge o similares para rapidez
+
+Siempre revisa fees y tiempos antes de mover fondos importantes.
