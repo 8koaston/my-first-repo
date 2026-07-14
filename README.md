@@ -686,3 +686,12 @@ Consejo: Siempre verifica el bridge oficial y usa cantidades pequeñas la primer
 - Superbridge o similares para rapidez
 
 Siempre revisa fees y tiempos antes de mover fondos importantes.
+
+### Stablecoins en Base
+
+Base tiene buena liquidez de stablecoins (USDC, USDT, etc.). Son ideales para:
+- Trading sin volatilidad
+- Pagos
+- Entrada/salida del ecosistema
+
+USDC nativo en Base es especialmente útil.
