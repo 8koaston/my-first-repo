@@ -749,3 +749,12 @@ Es una gran forma de:
 - Aprender aceleradamente
 - Conocer otros developers
 - Posiblemente ganar incentivos
+
+### Mentorship y recursos para builders
+
+- Programas de Base para nuevos developers
+- Documentación oficial actualizada
+- Comunidades activas donde pedir feedback
+- Repositorios open source de Base
+
+Aprovechar estos recursos acelera mucho el aprendizaje.
