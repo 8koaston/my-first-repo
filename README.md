@@ -731,3 +731,12 @@ Siempre investigar los riesgos (impermanent loss, smart contract risk, etc.).
 - Rug pulls o exploits
 
 Siempre hacer DYOR (Do Your Own Research) y empezar con cantidades pequeñas.
+
+### Oportunidades actuales en Base
+
+- Proyectos nuevos con incentivos para early users
+- Construir herramientas o dApps útiles
+- Participar en hackathons o quests de Base
+- Crear contenido educativo sobre el ecosistema
+
+Hay mucho espacio para builders nuevos.
