@@ -247,6 +247,7 @@ Base es una L2 de Ethereum creada por Coinbase. Algunas cosas interesantes que e
 
 **Idea futura:** Cuando avance más, me gustaría probar desplegar un contrato simple en Base.
 
+
 ### Ejemplo práctico: Interactuando con Base
 
 ```javascript
