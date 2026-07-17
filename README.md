@@ -758,3 +758,14 @@ Es una gran forma de:
 - Repositorios open source de Base
 
 Aprovechar estos recursos acelera mucho el aprendizaje.
+
+### Uso de Structs
+
+```solidity
+struct User {
+    uint256 id;
+    string name;
+    uint256 balance;
+}
+
+mapping(address => User) public users;
