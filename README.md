@@ -768,4 +768,15 @@ struct User {
     uint256 balance;
 }
 
+
+### Constructor con parámetros
+
+```solidity
+contract Configurable {
+    uint256 public feePercent;
+
+    constructor(uint256 _feePercent) {
+        feePercent = _feePercent;
+    }
+}
 mapping(address => User) public users;
