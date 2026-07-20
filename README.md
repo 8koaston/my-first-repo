@@ -1,7 +1,7 @@
 # Mi Primer Repositorio
 
 Estoy empezando a aprender GitHub. 
-Este es mi primer repo de prueba.
+Este es mi primer repositorio de prueba.
 
 ### Qué estoy haciendo:
 - Aprendiendo a usar Git y GitHub
