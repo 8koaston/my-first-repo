@@ -32,8 +32,6 @@ Mañana quiero probar a subir una imagen o un archivo extra.
 * Edición directa desde la interfaz web de GitHub
 * Mantener un README claro y actualizado
 
-Poco a poco voy ganando confianza con estas herramientas.
-
 ### Ideas para los próximos días:
 
 * Probar subir una imagen al repositorio
