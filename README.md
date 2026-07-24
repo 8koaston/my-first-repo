@@ -778,3 +778,5 @@ contract Configurable {
     }
 }
 mapping(address => User) public users;
+
+FINISHED!
